@@ -5,10 +5,10 @@ Any help or contribution is welcome.
 
 # Table of contents
 * [Requirements](https://github.com/ErikHD/PiBell/blob/master/README.md#requirements)
-* Getting started
-* Documentation
-* Contribution
-* License
+* [Getting started](https://github.com/ErikHD/PiBell/blob/master/README.md#getting-started)
+* [Documentation](https://github.com/ErikHD/PiBell/blob/master/README.md#documentation)
+* [Contribution](https://github.com/ErikHD/PiBell/blob/master/README.md#contribution)
+* [License](https://github.com/ErikHD/PiBell/blob/master/README.md#license)
 
 
 # Requirements
