@@ -20,8 +20,11 @@ Any help or contribution is welcome.
 - Programming skills is not required but helpful
 
 # Getting started
+To create a functional doorbell like PiBell, you need the required items from the list above. 
 # Documentation
-# Functions
+# Contribution
+Contributers are free to make pull request - we will review them asap.
+# Credits
 
 # License
 [GPL 3.0](https://github.com/ErikHD/PiBell/blob/master/LICENSE)
