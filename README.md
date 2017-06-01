@@ -4,7 +4,7 @@ PiBell is an open source application developed for Raspberry Pi that aims to mak
 Any help or contribution is welcome. 
 
 # Table of contents
-* Requirements
+* [Requirements](https://github.com/ErikHD/PiBell/blob/master/README.md#requirements)
 * Getting started
 * Documentation
 * Contribution
