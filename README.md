@@ -24,7 +24,7 @@ To create a functional doorbell like PiBell, you need the required items from th
 # Documentation
 https://github.com/ErikHD/PiBell/wiki
 # Contribution
-Contributers are free to make pull request - we will review them asap. If you have any questions feel free to contact us.
+Contributers are free to make pull request - we will review them asap. If you have any questions feel free to make contact.
 # Credits
 https://wiki.linphone.org/xwiki/wiki/public/ 
 
