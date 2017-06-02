@@ -18,6 +18,7 @@ Any help or contribution is welcome.
 - Web camera with sound driver
 - Linphone application and user for smartphone
 - Push button that works with Raspberry Pi (See link)
+- Wireless USB keyboard to configure the Raspberry Pi
 - Programming experience is not required but helpful
 
 # Getting started
