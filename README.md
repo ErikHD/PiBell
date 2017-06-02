@@ -24,10 +24,11 @@ Any help or contribution is welcome.
 # Getting started
 To create a functional doorbell like PiBell, you need the required items from the list above.
 Read the install.txt, follow directions.
-To start the daemon,
+-To start the daemon do:
+
 linphonecsh init -a -C -c ~/.linphonerc
-to stop the daemon:
-linphonecsh exit
+
+-To stop the daemon do: linphonecsh exit
 
 # Documentation
 https://github.com/ErikHD/PiBell/wiki
