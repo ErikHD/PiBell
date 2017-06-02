@@ -1,6 +1,6 @@
 # PiBell
 
-PiBell is an open source application developed for Raspberry Pi that aims to make ringing someone's doorbell a fun, convenient and helpful experience. It employs LibLinphone, a high level librabry for handling SIP calls as well as a camera with microphone. The code is written Python 🐍.
+PiBell is an open source application developed for Raspberry Pi that aims to make ringing someone's doorbell a fun, convenient and helpful experience. It employs LibLinphone, a high level librabry for handling SIP calls as well as a camera with microphone. The code is written Python 🐍. The idea is that once a button is pushed, the Linphone application automatically starts an outgoing call to a pre determined Linphone user/phone. Contact will then exist between the camera and its microphone, and the phone.
 Any help or contribution is welcome. 
 
 # Table of contents
@@ -20,7 +20,7 @@ Any help or contribution is welcome.
 - Programming skills is not required but helpful
 
 # Getting started
-To create a functional doorbell like PiBell, you need the required items from the list above. 
+To create a functional doorbell like PiBell, you need the required items from the list above. T
 # Documentation
 https://github.com/ErikHD/PiBell/wiki
 # Contribution
