@@ -18,10 +18,11 @@ Any help or contribution is welcome.
 - Web camera with sound driver
 - Linphone application and user for smartphone
 - Push button that works with Raspberry Pi (See link)
-- Programming skills is not required but helpful
+- Programming experience is not required but helpful
 
 # Getting started
-To create a functional doorbell like PiBell, you need the required items from the list above. T
+To create a functional doorbell like PiBell, you need the required items from the list above. 
+
 # Documentation
 https://github.com/ErikHD/PiBell/wiki
 # Contribution
