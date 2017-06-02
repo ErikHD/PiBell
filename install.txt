@@ -1,0 +1,26 @@
+Setting up linphone:
+
+download desired snapshot/release such as
+https://linphone.org/releases/linphone-python-raspberry/linphone4raspberry-3.9.0-cp27-none-any.whl
+
+$ sudo apt-get install python-setuptools
+$ sudo easy_install pip
+$ sudo pip install wheel
+$ sudo pip install --upgrade pip
+$ sudo pip install <path to the snapshot/release you DL'ed>
+
+More dependencies:
+$ sudo apt-get install automake autoconf libtool intltool libopus-dev libspeexdsp-dev antlr3 libantlr3c-dev libpolarssl-dev yasm libxml2-dev libasound2-dev libpulse-dev libv4l-dev
+
+For button:
+$ git clone https://github.com/simonmonk/squid.git
+$ cd squid
+$ sudo python setup.py install
+(for python 3, use python3)
+
+To configure linphonec
+
+linphonec> proxy add
+Add your sip address and possibly transport parameter as below
+"sip:sip.linphone.org;transport=tls"
+quit
